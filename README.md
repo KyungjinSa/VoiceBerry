@@ -1,5 +1,4 @@
 # VoiceBerry
-WindowPhone8.1, C#
 
 ![Main1](voice/voice/Assets/RP1.PNG)
 ![Main2](voice/voice/Assets/RP2.PNG)
